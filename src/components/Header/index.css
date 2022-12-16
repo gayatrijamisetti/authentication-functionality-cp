@@ -1,0 +1,13 @@
+.nav-header {
+  display: flex;
+}
+.nav-menu {
+  display: flex;
+  justify-content: space-evenly;
+}
+.nav-menu-item {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: violet;
+  padding: 20px;
+}

@@ -1,0 +1,11 @@
+.notFound-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.notFound-heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+}
